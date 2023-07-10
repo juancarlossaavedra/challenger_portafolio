@@ -54,7 +54,7 @@ nav{
     font-style: normal;
 }
 
-/*Seccion 0*/
+
 .seccion1-container{
     display: flex;
     justify-content: space-evenly;
@@ -115,7 +115,6 @@ nav{
     border-radius: 200px;
 }
 
-/*Seccion Sobre mi*/
 .seccion2-container{
     display: flex;
     background-color: #EAF2FD;
@@ -140,14 +139,14 @@ nav{
 .seccion-sobremi p{
     font-family: 'Raleway';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
     color: #464646;
     padding-top: 30px;
     
 }
 
-/*Responsive*/
+
 @media (max-width: 1440px){ 
     .seccion1-container{
         display: flex;
